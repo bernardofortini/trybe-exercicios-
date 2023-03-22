@@ -2,13 +2,13 @@
 <html>
     <head>
     <title>Acelere sua carreira aqui</title>
-    <style>
-
-  <h2 {color:green
-  }>
-</style>
+    <style> h1{color: red
+    }
+    
+    </style>
  </head>
-    <body> <h1> Sua carreira de sucesso em rcnologia começa aqui</h1>
+    <body>
+     <h1> Sua carreira de sucesso em rcnologia começa aqui</h1>
     <img src="/images/smiling-image.jpg" alt="cara sorrindo">
 <h2>A trybe é para todos</h2>
 <h2>atividades </h2>
@@ -17,5 +17,4 @@
 <h2>como é a formaçao</h2>
 <p>gfafgjkfjksgjfgsgfgsg</p>
 </body>
-    
 </html> 
